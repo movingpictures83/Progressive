@@ -1,0 +1,2 @@
+Prefix plugins/Progressive/example/
+Plugin Progressive inputfile none outputfile output.txt
